@@ -1,4 +1,4 @@
-streamlit==0.60.0
-numpy==1.18.4
-pandas==0.24.2
-sklearn==0.22.1
+streamlit>=0.60.0
+numpy>=1.18.4
+pandas>=0.24.2
+scikit-learn>=0.22.1
