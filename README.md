@@ -34,4 +34,4 @@ Clone the repositry Switch to the directory with ```app.py``` Run the code using
 ``` 
 streamlit run app.py
 ```
-hosted [here](https://machine-learning-webapp.herokuapp.com/)
+you can see the hosted WebApp [here](https://machine-learning-webapp.herokuapp.com/)
